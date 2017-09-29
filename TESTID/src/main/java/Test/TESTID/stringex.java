@@ -4,7 +4,7 @@ package Test.TESTID;
  * Hello world!
  *
  */
-public class App 
+public class stringex 
 {
     public static void main( String[] args )
     {
@@ -22,7 +22,7 @@ public class App
         for (int i=ch.length-1;i>=0;i--){
         	System.out.print(ch[i]);
         }
-        
+        //Normal using string only
         for (int i=s1.length()-1;i>=0;i--){
         	
         	System.out.print(s1.charAt(i));
