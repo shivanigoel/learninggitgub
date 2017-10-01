@@ -6,6 +6,10 @@ public abstract class GITMERGE {
 		
 		System.out.println("Mergingddghgugugd");
 		//for any update
+		System.out.println("Mergingddghgugugd.........");
+		//Merge with new updates
+		
+		//<tarun>>>>>>>>>
 
 	}
 
