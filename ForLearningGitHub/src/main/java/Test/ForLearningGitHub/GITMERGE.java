@@ -9,7 +9,7 @@ public abstract class GITMERGE {
 		System.out.println("Mergingddghgugugd.........");
 		//Merge with new updates
 		
-		//<tarun>>>>>>>>>
+	
 
 	}
 
