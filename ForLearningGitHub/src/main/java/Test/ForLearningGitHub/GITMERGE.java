@@ -6,7 +6,7 @@ public abstract class GITMERGE {
 		
 		System.out.println("Mergingddghgugugdhrghjhgjrhgkrjktnktj");
 		//for any update
-		System.out.println("Mergingddghgugugd.........");
+		//System.out.println("Mergingddghgugugd.........");
 		//Merge with new updates
 		
 	
